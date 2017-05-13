@@ -1,0 +1,15 @@
+{
+  "name": "test-amplement",
+  "version": "0.1.0",
+  "description": "Test exercice for Amplement hiring",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js inputs"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "fs": "0.0.1-security"
+  }
+}
